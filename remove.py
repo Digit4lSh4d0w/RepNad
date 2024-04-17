@@ -2,7 +2,7 @@
 
 import warnings
 import requests
-from ip_rep_auto_list import url_nad
+from main import url_nad
 from utils import validate_ip_address
 
 

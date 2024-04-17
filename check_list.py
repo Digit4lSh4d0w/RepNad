@@ -2,7 +2,7 @@
 
 import warnings
 import requests
-from ip_rep_auto_list import url_nad
+from main import url_nad
 
 
 def check(session: requests.Session) -> None:
